@@ -10,6 +10,7 @@ enableRobotsTXT = true
 summaryLength = 0
 canonifyURLs = true
 relativeURLs = true
+googleAnalytics = 'G-BJKD83ESK8'
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
