@@ -13,6 +13,6 @@ title = "Alon Jacobi"
   links = [
     { linkedin = "https://www.linkedin.com/in/alonjacobi" },
     { github = "https://github.com/alon-jacobi" },
-    { stackoverflow = "https://stackoverflow.com/users/6509684" },
+    { stack-overflow = "https://stackoverflow.com/users/6509684" },
     { email = "mailto:alon.jacobi@gmail.com" },
   ]
