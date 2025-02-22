@@ -1,0 +1,15 @@
+# -- Site Configuration --
+# Refer to the theme docs for more details about each of these parameters.
+# https://jpanther.github.io/congo/docs/getting-started/
+
+baseUrl = "https://alonjacobi.com/"
+defaultContentLanguage = "en"
+pagination.pagerSize = 10
+theme = 'congo'
+enableRobotsTXT = true
+summaryLength = 0
+canonifyURLs = true
+relativeURLs = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

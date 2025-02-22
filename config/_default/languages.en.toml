@@ -1,0 +1,18 @@
+languageCode = "en"
+languageName = "English"
+languageDirection = "ltr"
+weight = 1
+
+title = "Alon Jacobi"
+
+[params.author]
+  name = "Alon Jacobi"
+  image = "img/avatar.jpg"
+  headline = "Software Engineer @ Google"
+  # bio = "A little bit about me"
+  links = [
+    { linkedin = "https://www.linkedin.com/in/alonjacobi" },
+    { github = "https://github.com/alon-jacobi" },
+    { stackoverflow = "https://stackoverflow.com/users/6509684" },
+    { email = "mailto:alon.jacobi@gmail.com" },
+  ]
